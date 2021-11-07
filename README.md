@@ -6,8 +6,7 @@ Este proyecto es realizado por:
 * Adrian Felipe Pinzon Hurtado
 
 Este trabajo incluye los siguientes documentos:
-* <<File.py>>
+* PRAC1_Web-Scraping.ipynb: Código para la extracción de información
 * Readme
-* Dataset
-* <<documento.pdf>>. Documento el cual contiene respuestas a las preguntas de la Practica 1 de la materia Tipología y ciclo de vida de los datos del aula 1
-* 
+* Dataset: El dataset es nombrado como "Informacion_coches.csv"
+* PRA1_Tipología.pdf: Documento el cual contiene respuestas a las preguntas de la Practica 1 de la materia Tipología y ciclo de vida de los datos del aula 1
